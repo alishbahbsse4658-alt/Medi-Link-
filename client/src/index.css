@@ -1,0 +1,9 @@
+/* src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    background-color: #f7fdf9;
+    @apply text-gray-900 antialiased;
+}
