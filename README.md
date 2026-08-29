@@ -32,6 +32,7 @@ JSON Web Tokens (JWT) for auth
 bcryptjs for password hashing
 Multer (image handling)
 CORS, dotenv
+
 📁 Project Structure
 Medi App/
 ├── client/                 # React frontend
@@ -62,6 +63,7 @@ Medi App/
     │   └── medicine.js
     ├── index.js
     └── package.json
+    
 🚀 Getting Started
 Prerequisites
 Node.js (v18 or higher recommended)
